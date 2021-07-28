@@ -1,1 +1,2 @@
 get 1 A
+get 10 A
